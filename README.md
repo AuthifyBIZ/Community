@@ -15,3 +15,11 @@ Here you can push your examples in the README.
 # Resources
 
 - [x] Python Universal by [Vo1dShade](https://github.com/vo1dshade/Authify.biz-Python-Universal)
+
+
+# Original
+
+- [x] Python by [Authify](https://github.com/AuthifyBIZ/Authify.biz-Python)
+- [x] Java by [Authify](https://github.com/AuthifyBIZ/Authify.biz-Java)
+- [x] PHP by [Authify](https://github.com/AuthifyBIZ/Authify.biz-PHP)
+- [x] JavaScript ba [Authify](https://github.com/AuthifyBIZ/Authify.biz-NPM)
