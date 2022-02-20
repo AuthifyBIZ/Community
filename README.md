@@ -13,3 +13,5 @@ Here you can push your examples in the README.
 ---
 
 # Resources
+
+- [x] Python Universal by [Vo1dShade](https://github.com/vo1dshade/Authify.biz-Python-Universal)
